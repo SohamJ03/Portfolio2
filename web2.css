@@ -1,0 +1,23 @@
+.title{
+    background-color: aqua;
+    text-align: center;
+    height: 80px;
+    align-items: center;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+.report{
+    background-color: crimson;
+    height: 250px;
+    padding-top: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.images{
+    margin-top: 20px;
+    
+}

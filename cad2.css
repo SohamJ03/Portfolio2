@@ -1,0 +1,19 @@
+.title{
+    background-color: darkorange;
+    text-align: center;
+    height: 80px;
+    align-items: center;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+
+.report{
+    background-color: goldenrod;
+    height: 250px;
+    padding-top: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
