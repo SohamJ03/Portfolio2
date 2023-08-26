@@ -1,0 +1,25 @@
+.title{
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+    height: 80px;
+    align-items: center;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+
+.report{
+    background-color: rgb(0, 255, 128);
+    font-size: 20px;
+    height: 900px;
+    padding-top: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.images{
+    padding-left: 150px;
+    display: inline-flex;
+}
